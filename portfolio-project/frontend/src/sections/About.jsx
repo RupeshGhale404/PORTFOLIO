@@ -18,7 +18,7 @@ export default function About() {
               learning new technologies to deliver high-quality digital products.
             </p>
 
-            
+            <a
               href="/resume.pdf"
               download
               className="inline-flex items-center gap-2 mt-4 px-6 py-3 rounded-lg bg-primary text-bg font-semibold hover:opacity-90 transition"
