@@ -34,8 +34,8 @@ export default function About() {
             <h3 className="text-white font-semibold mb-4">Quick Info</h3>
             <ul className="space-y-2 text-sm text-muted">
               <li><span className="text-primary font-medium">Location:</span> Kathmandu, Nepal</li>
-              <li><span className="text-primary font-medium">Experience:</span> 3+ Years</li>
-              <li><span className="text-primary font-medium">Email:</span> john@example.com</li>
+              <li><span className="text-primary font-medium">Experience:</span> BIT Student</li>
+              <li><span className="text-primary font-medium">Email:</span> rupesh404@gmail.com</li>
               <li><span className="text-primary font-medium">Available:</span> Open to work</li>
             </ul>
           </div>
