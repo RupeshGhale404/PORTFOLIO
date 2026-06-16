@@ -5,7 +5,7 @@ export default function Hero() {
         <div className="text-center md:text-left order-2 md:order-1">
           <p className="text-primary font-medium mb-3">Hi, my name is</p>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight">
-            John Doe
+            Rupesh Ghale
           </h1>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold text-muted mt-2">
             I build things for the web.
