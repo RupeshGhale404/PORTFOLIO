@@ -14,7 +14,7 @@ export default function Navbar() {
     <nav className="fixed top-0 w-full z-50 bg-surface/80 backdrop-blur-md border-b border-white/5">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
         <a href="#home" className="text-xl font-bold text-white">
-          John<span className="text-primary">Doe</span>
+          Rupesh<span className="text-primary">Ghale</span>
         </a>
 
         {/* Desktop links */}
